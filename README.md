@@ -1,1 +1,1 @@
-# CoinCrass
+# Coin
